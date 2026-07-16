@@ -1,4 +1,4 @@
-use std::cmp::Ordering; // 1. Must import this for the match to work!
+use std::cmp::Ordering;
 use std::io::{self, Write};
 use std::{thread, time};
 
